@@ -17,6 +17,7 @@
 		9A2628422EAB480C00864500 /* BookRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2628412EAB480C00864500 /* BookRowView.swift */; };
 		9A2628462EAB63DE00864500 /* ISBN.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2628452EAB63DE00864500 /* ISBN.swift */; };
 		9A2628482EAB63F800864500 /* BookEditViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2628472EAB63F800864500 /* BookEditViewModel.swift */; };
+		9ADAA87C2EB1ED2C002B63EC /* SignupForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ADAA87B2EB1ED2C002B63EC /* SignupForm.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		9A2628412EAB480C00864500 /* BookRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookRowView.swift; sourceTree = "<group>"; };
 		9A2628452EAB63DE00864500 /* ISBN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ISBN.swift; sourceTree = "<group>"; };
 		9A2628472EAB63F800864500 /* BookEditViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookEditViewModel.swift; sourceTree = "<group>"; };
+		9ADAA87B2EB1ED2C002B63EC /* SignupForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupForm.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				9A2628332EA9DD4400864500 /* BookEditView.swift */,
 				9A2628352EA9DFEA00864500 /* BookDetailsView.swift */,
 				9A2628412EAB480C00864500 /* BookRowView.swift */,
+				9ADAA87B2EB1ED2C002B63EC /* SignupForm.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -189,6 +192,7 @@
 			files = (
 				88D0E2F328CE85DE003E175B /* BookShelfApp.swift in Sources */,
 				9A2628342EA9DD4400864500 /* BookEditView.swift in Sources */,
+				9ADAA87C2EB1ED2C002B63EC /* SignupForm.swift in Sources */,
 				9A2628462EAB63DE00864500 /* ISBN.swift in Sources */,
 				88D0E30228CE863A003E175B /* Book.swift in Sources */,
 				88D0E30728CE88ED003E175B /* BookListView.swift in Sources */,
